@@ -8,5 +8,5 @@
 - 🌱 Estrutura de dados em C...
 - 🌱 Estatística Aplicada.
 
-- ❤ Paixões: family and -> 💻📸✈🌊 🖖
+- ❤ Paixões: family and -> 💻📸✈🌊 
 -->
