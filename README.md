@@ -1,32 +1,63 @@
-
-### 📚Priscila Leite! 🖖
-
+<p>          
+ <img align="reiht" src="https://user-images.githubusercontent.com/109990443/219958871-89612aff-127c-4019-b24d-a837c0a7d822.gif" height="300" width="400px">
+<p>
  
-<div> 
-<img align="right" src="https://user-images.githubusercontent.com/109990443/219679111-2377f9f6-d336-4ea2-9e87-c0fcdbbafe68.gif" width="400px"/> 
-<di>
-
+<p>  
+<img align="right" src="https://user-images.githubusercontent.com/109990443/219958959-2618b5f4-3600-4d96-a03d-f3b8995fed4a.gif" width="400px">
+<p>
+ 
  #### Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/regis-da-silva-santos/](https://www.linkedin.com/in/priscila-leite-185091244/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-leite-185091244/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/prix_leite/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
 
+
 #### Stacks
 <p>
+ <img alt="C" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<p> 
+ 
+<p>  
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Csharp" src="https://img.shields.io/badge/Csharp-3776AB?style=for-the-badge&logo=Csharp&logoColor=purple"/> 
-  <img alt=".NET core" src="https://img.shields.io/badge/.NETcore-3776AB?style=for-the-badge&logo=.NETcore&logoColor=purple"/> 
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img alt="MySql" src="https://img.shields.io/badge/MySql-563D7C?style=for-the-badge&logo=MySql&logoColor=white"/>
+<p>
+ 
+<p>
+  <img alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+  <img alt=".NET core" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
+  <img alt=".NET core" src="https://img.shields.io/badge/.net-core-5C2D91?style=for-the-badge&logo=.netcore&logoColor=white"/> 
+  <img alt=".NET Framework" src="https://img.shields.io/badge/.net-framework-5C2D91?style=for-the-badge&logo=.netframework&logoColor=white"/>  
+ 
+<p>
+                                                                                                                                
+<p>                                                                                                                                
+   <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />                                                            <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>                                        
+<p>                                                                                                                                
+                
+
+ 
+ 
+#### RDBMS's
+<p>
+ <img alt="UML" src="https://img.shields.io/badge/uml-563D7C?style=for-the-badge&logo=uml&logoColor=white"/> 
+<p>
+<p>
+  <img alt="Sql" src="https://img.shields.io/badge/sql-563D7C?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img alt="MySql" src="https://img.shields.io/badge/MySql-563D7C?style=for-the-badge&logo=MySql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>   
+<p>
+ 
+#### NoSql
+<p>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-563D7C?style=for-the-badge&logo=MongoDB&logoColor=white"/> 
 <p>
  
  #### Github Stats
- <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="200px" height="220">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="200px" height = "220">
- </a>
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula"  height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook"  height = "165">
+ <p>
  
  
  
