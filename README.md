@@ -55,8 +55,8 @@
  
  #### Github Stats
  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula"  height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook"  height = "165">
+  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=tokyonight"  height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=tokyonight&hide=css,html,jupyter%20notebook"  height = "150">
  <p>
  
  
