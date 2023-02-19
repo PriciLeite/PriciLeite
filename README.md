@@ -24,8 +24,8 @@
  
  #### Github Stats
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="200px" height="185">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="200px" height = "185">
+  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="200px" height="220">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="200px" height = "220">
  </a>
  
  
