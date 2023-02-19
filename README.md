@@ -6,7 +6,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/109990443/219679111-2377f9f6-d336-4ea2-9e87-c0fcdbbafe68.gif" width="400px"/> 
 <di>
 
+ ### Contact
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/regis-da-silva-santos/](https://www.linkedin.com/in/priscila-leite-185091244/))
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/prix_leite/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
 
 #### Stacks
 <p>
