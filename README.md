@@ -15,10 +15,11 @@
 #### Stacks
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C(sharp)" src="https://img.shields.io/badge/C(sharp)-3776AB?style=for-the-badge&logo=C(sharp)&logoColor=purple"/> 
-  <img alt=".NET core" src="https://img.shields.io/badge/.NET(core)-3776AB?style=for-the-badge&logo=.NET(core)&logoColor=purple"/> 
+  <img alt="Csharp" src="https://img.shields.io/badge/Csharp-3776AB?style=for-the-badge&logo=Csharp&logoColor=purple"/> 
+  <img alt=".NET core" src="https://img.shields.io/badge/.NETcore-3776AB?style=for-the-badge&logo=.NETcore&logoColor=purple"/> 
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt="MySql" src="https://img.shields.io/badge/MySql-563D7C?style=for-the-badge&logo=MySql&logoColor=white"/>
 <p>
  
  
