@@ -22,22 +22,10 @@
  <img alt="MySql" src="https://img.shields.io/badge/MySql-563D7C?style=for-the-badge&logo=MySql&logoColor=white"/>
 <p>
  
-<br/>
-  
-  
-  
-  
-  
-  
- <br/>
- 
- 
- 
-
  #### Github Stats
- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="250px" height="185">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="250px" height = "185">
+ <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="200px" height="185">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="200px" height = "185">
  </a>
  
  
