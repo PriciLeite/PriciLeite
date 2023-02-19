@@ -3,7 +3,7 @@
 
  
 <div> 
-<img align="right" src="https://user-images.githubusercontent.com/109990443/219679111-2377f9f6-d336-4ea2-9e87-c0fcdbbafe68.gif" width="400px"/> 
+<img align="center" src="https://user-images.githubusercontent.com/109990443/219679111-2377f9f6-d336-4ea2-9e87-c0fcdbbafe68.gif" width="400px"/> 
 <di>
 
 
@@ -24,8 +24,8 @@
 
  #### Github Stats
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="300px" height="185">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="300px" height = "185">
+  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=dracula" width="400px" height="185">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=dracula&hide=css,html,jupyter%20notebook" width="400px" height = "185">
  </a>
  
  
