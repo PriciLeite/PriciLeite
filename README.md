@@ -57,10 +57,10 @@
 
  
  #### Github Stats
- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=tokyonight"  height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=tokyonight&hide=css,html,jupyter%20notebook"  height = "150">
- <p>
  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&theme=radical) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&&layout=compact&theme=radical&hide=css) 
+
+
  
  
