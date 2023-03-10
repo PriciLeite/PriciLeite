@@ -57,11 +57,10 @@
 
  
  #### Github Stats
- <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&count_private=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&theme=radical&hide=css" height = "165">
-</a>
-  
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&bg_color=0d1117)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&show_icons=true&bg_color=0d1117" height = "196">
+ 
 
 
  
