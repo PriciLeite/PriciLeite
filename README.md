@@ -48,6 +48,8 @@
   <img alt="Sql" src="https://img.shields.io/badge/sql-563D7C?style=for-the-badge&logo=sql&logoColor=white"/>
   <img alt="MySql" src="https://img.shields.io/badge/MySql-563D7C?style=for-the-badge&logo=MySql&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>   
+  <img alt="SqlServer" src="https://img.shields.io/badge/SqlServer-316192?style=for-the-badge&logo=sqlserver&logoColor=white"/>   
+  
 <p>
  
 #### NoSql
