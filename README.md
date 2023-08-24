@@ -1,6 +1,5 @@
-<p>          
- <img align="reiht" src="https://user-images.githubusercontent.com/109990443/223163499-7d21c6b9-ec47-4902-90da-beab1c42988b.gif" height="300" width="500px">
-<p>
+### Olá Rede 😎
+
  
 <p>  
 <img align="right" src="https://user-images.githubusercontent.com/109990443/223159820-e2768e36-87a8-4ff1-96a0-ce92f897192f.gif" width="400px">
