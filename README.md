@@ -39,7 +39,7 @@
 
  
  
-#### RDBMS's
+#### RGBD's
 <p>
  <img alt="UML" src="https://img.shields.io/badge/uml-563D7C?style=for-the-badge&logo=uml&logoColor=white"/> 
 <p>
