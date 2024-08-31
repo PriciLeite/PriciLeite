@@ -42,8 +42,6 @@
 ## 📊 **Estatísticas do GitHub**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&bg_color=) 
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&show_icons=true&bg_color=" height = "196">
  
 
