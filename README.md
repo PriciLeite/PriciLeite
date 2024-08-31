@@ -41,8 +41,8 @@
 
 ## 📊 **Estatísticas do GitHub**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&bg_color=) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&show_icons=true&bg_color=" height = "196">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&bg_color=d3cfcf&text_color=52218a&title_color=52218a) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&show_icons=true&bg_color=d3cfcf&text_color=52218a&title_color=52218a" height = "196">
  
 
 
