@@ -5,7 +5,7 @@
 ## 🛠 **Linguagens e Ferramentas**
 
 <p>  
-<img align="right" src="https://user-images.githubusercontent.com/109990443/223159820-e2768e36-87a8-4ff1-96a0-ce92f897192f.gif" width="">
+<img align="right" src="https://user-images.githubusercontent.com/109990443/223159820-e2768e36-87a8-4ff1-96a0-ce92f897192f.gif" width="400px">
 <p>
  
 <div font-family="sans"> 
@@ -42,7 +42,6 @@
 ## 📊 **Estatísticas do GitHub**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&bg_color=) 
-&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&show_icons=true&bg_color=" height = "196">
