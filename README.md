@@ -1,9 +1,10 @@
 
-# 🚀 **Bem-vindo ao meu GitHub!**  
-*"Transformando ideias em código, um commit de cada vez."*
+# 🚀 **Welcome to my GitHub!**  
+**Hi there, I'm priscila!** 👩🏼‍💻 <br>
+*"Turning ideas into code, one commit at a time."*
 
  
-## 🛠 **Linguagens e Ferramentas**
+## 🛠 **Languages ​​and Tools**
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; align-items: center;">
@@ -24,27 +25,27 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
       <br>
-      <h4>Ferramentas</h4>
+      <h4>Tools</h4>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
       <br>
-     <h4>Banco de Dados</h4>
+     <h4>Data Base</h4>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQLServer" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="OracleSQL" width="40" height="40"/>
       <br>
-     <h4>Banco de Dados NoSQL</h4>
+     <h4>Data Base NoSQL</h4>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
     </div>
   </div>
 
   <div style="margin-top: 20px;">
    
-  ## 📊 **Estatísticas do GitHub**
+  ## 📊 **GitHub Statistics**
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricileite&show_icons=true&bg_color=d3cfcf&text_color=52218a&title_color=52218a) 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricileite&layout=compact&show_icons=true&bg_color=d3cfcf&text_color=52218a&title_color=52218a" height="196">
   </div>
